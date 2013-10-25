@@ -32,6 +32,7 @@ public class ProjectsActivity extends ListActivity {
 
 		setListAdapter(adapter);
 		
+		
 	}
 	
 	@Override
