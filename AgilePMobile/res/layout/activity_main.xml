@@ -52,10 +52,9 @@
         android:id="@+id/btnEnter"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_alignLeft="@+id/fieldUser"
         android:layout_below="@+id/fieldPassword"
-        android:layout_marginLeft="40dp"
-        android:layout_marginTop="24dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="27dp"
         android:text="@string/btn_enter" />
 
 </RelativeLayout>

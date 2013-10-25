@@ -9,5 +9,7 @@
     <string name="label_username">Usuário:</string>
     <string name="label_password">Senha:</string>
     <string name="btn_enter">Entrar</string>
-
+    
+    <!-- Project List -->
+	<string name="label_projects">Projetos</string>
 </resources>
